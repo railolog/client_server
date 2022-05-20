@@ -1,0 +1,14 @@
+/server/src/main/resources/
+/send_file.sh
+/script
+/save.json
+/server/target/
+/server/src/test/
+/saves/
+/common/target/
+/common/src/test/
+/common/src/main/resources/
+/client/target/
+/client/src/test/
+/client/src/main/resources/
+/.idea/
